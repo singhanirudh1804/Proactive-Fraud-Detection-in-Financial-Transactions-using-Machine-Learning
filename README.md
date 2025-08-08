@@ -83,7 +83,3 @@ The dataset used is a synthetic bank transactions dataset with 6+ million record
 - Fraudulent transactions often drain the sender's account completely.
 - Many frauds follow a pattern: `TRANSFER` from a user → `CASH_OUT` to another account.
 
----
-
-## 📂 Project Structure
-
